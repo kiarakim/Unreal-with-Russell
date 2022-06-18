@@ -16,7 +16,7 @@ public class LifeCycle : MonoBehaviour
 
     void start() //초기화. 최초 1회실행
     {
-        Debug.Log("사냥 장비를 챙겼습니다.");
+        Debug.Log("사냥 장비를 챙겼습니다.");;;;
     }
     // * 활성화는 초기화와 물리 사이에 있음.
     void FixedUpdate() //물리 연산 업데이트. 고정된 실행 주기로 CPU부하가 많다.
