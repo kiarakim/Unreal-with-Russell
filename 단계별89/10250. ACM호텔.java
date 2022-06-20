@@ -13,7 +13,7 @@ public class Main {
 		int T = Integer.parseInt(br.readLine());
 
 		for (int i = 0; i < T; i++) {
-			st = new StringTokenizer(br.readLine(), " ");
+			st = new StringTokenizer(br.readLine()," ");
 			int H = Integer.parseInt(st.nextToken());// 호텔 층
 			st.nextToken();// 방 수
 			int N = Integer.parseInt(st.nextToken());// 몇 번째 손님
