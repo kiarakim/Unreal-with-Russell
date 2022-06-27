@@ -13,7 +13,7 @@ public class Main {
 		int T = Integer.parseInt(br.readLine());
 		StringBuilder sb = new StringBuilder();
 		get_prime();
-		
+		 
 		while(T-- > 0) {
 			int n = Integer.parseInt(br.readLine());
 			int p = n / 2;
