@@ -1,0 +1,4 @@
+Starter Content 폴더 > Textures 폴더 > 수많은 이미지들이 있음.
+이 이미지를 사용해서 Material이라는 Asset을 만들게 되고, 그 Material이 StaticMeshActor에 입혀지면서 하나의 3D 오브젝트가 완성이 됨.
+즉, Texture라는 이름의 원래 이미지를 이용해 Material을 만들고, 그것을 통해 StaticMesh의 외형을 결정할 수 있다.
+
